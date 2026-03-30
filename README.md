@@ -2,7 +2,7 @@
 
 Engineering student building practical, user-focused technical systems.
 
-I’m interested in the intersection of mechanical design, software, and real-world product development. I enjoy building things that move from concept to implementation — especially projects that combine hardware, software, and human-centered thinking.
+I’m interested in the intersection of mechanical design, software, and real-world product development. I enjoy building things that move from concept to implementation, especially projects that combine hardware, software, and human-centered thinking.
 
 ---
 
