@@ -23,7 +23,9 @@ I’m interested in the intersection of mechanical design, software, and real-wo
 - C++
 - MATLAB
 - SQL
-- Git & GitHub
+- Git
+- GitHub
+- ROS2
 - Docker
 - OpenCV
 - MediaPipe
